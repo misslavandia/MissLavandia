@@ -22,7 +22,6 @@
 <h2>✒️ achievements</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninafoxy&show_icons=true&locale=en" alt="ninafoxy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninafoxy&" alt="ninafoxy" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninafoxy&show_icons=true&locale=en&layout=compact" alt="ninafoxy" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninafoxy" alt="ninafoxy" /></a></p>
 
