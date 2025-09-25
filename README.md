@@ -15,4 +15,5 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://www.lavandiaxjoke.cloud/">my shitty trash website for all my bored idea</a></li>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MissLavandia, Nina Foxy&show_icons=true&locale=en&layout=compact" alt="MissLavandia, Nina Foxy" /></p>
+
+![lavandiagif](https://github.com/user-attachments/assets/9b46da43-a21f-4534-aa2b-cba0205bd0cf)
