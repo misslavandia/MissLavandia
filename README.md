@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Miss a Lead Dev</h1>
 <p>i'll make some trash code when im bored LUL</p>
+![lavandiagif](https://github.com/user-attachments/assets/ffbe38b2-4a98-46b7-a8f5-0126776411f9)
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -16,4 +18,10 @@
 <ul>
 <li><a target="_blank" href="https://www.lavandiaxjoke.cloud/">my shitty trash website for all my bored idea</a></li>
 
-![lavandiagif](https://github.com/user-attachments/assets/9b46da43-a21f-4534-aa2b-cba0205bd0cf)
+<h2>✒️ achievements</h2>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninafoxy&show_icons=true&locale=en" alt="ninafoxy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninafoxy&" alt="ninafoxy" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninafoxy&show_icons=true&locale=en&layout=compact" alt="ninafoxy" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninafoxy" alt="ninafoxy" /></a></p>
+
