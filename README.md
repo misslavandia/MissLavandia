@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=LEAD+DEV;Transgender+DEV;%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE%2C+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE)](https://git.io/typing-svg)
 
+<img width="150" height="90" alt="emojis com vodka" src="https://github.com/user-attachments/assets/5924b043-bbad-4505-b436-5f936f8d0833" />
+
 ###
 
 <h2 align="left">Hi 👋! My name is MissLavandia and I'm a Lead dev<br><br><br>i'll make some trash code when im bored LUL</h2> <img width="150" height="90" alt="emojis com soviet-heavy-equipment-plant-building,-factory-exterior,-hammer-and-sickle,-smokestacks,-no-people,-no-machinery-outside" src="https://github.com/user-attachments/assets/c6ff1c76-53fd-4fa9-b3c4-d32d5b6270f9" />
