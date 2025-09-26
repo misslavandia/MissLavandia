@@ -26,7 +26,7 @@
 
 <h2>✒️ achievements</h2>
 
-<p><img align="center" src="![GitHub stats](https://github-readme-stats.vercel.app/api?ninafoxy=anuraghazra&show_icons=true&theme=dark)" /></p>
+<p><img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninafoxy&show_icons=true&theme=dark)" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninafoxy&show_icons=true&locale=en&layout=compact" alt="ninafoxy" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninafoxy" alt="ninafoxy" /></a></p>
 
