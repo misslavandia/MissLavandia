@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Miss a Lead Dev</h1>
 
-![](https://komarev.com/ghpvc/?username=ninafoxy&color=red)
+![](https://komarev.com/ghpvc/?username=ninafoxy&color=red) ![](https://dcbadge.limes.pink/api/shield/1231888264026132540)
 
 <p>i'll make some trash code when im bored LUL</p>
 
