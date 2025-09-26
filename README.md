@@ -76,5 +76,5 @@
 
 ###
 
-![terminal (1)](https://github.com/user-attachments/assets/08edb98f-6d30-4fa5-b951-fc9af32b9cf0)
+![terminal1-ezgif com-speed](https://github.com/user-attachments/assets/eea82147-d1d7-45c7-be2c-c4e70c886d25)
 
