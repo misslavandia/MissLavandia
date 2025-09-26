@@ -78,5 +78,6 @@
 
 ###
 
-![terminal1-ezgif com-speed](https://github.com/user-attachments/assets/eea82147-d1d7-45c7-be2c-c4e70c886d25)
+![terminal2-ezgif com-speed](https://github.com/user-attachments/assets/e3bcfe4d-90e7-41a3-9378-5678c0fefca1)
+
 
