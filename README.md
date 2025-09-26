@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Miss a Lead Dev</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=ninafoxy&color=red)
 
 <p>i'll make some trash code when im bored LUL</p>
 
