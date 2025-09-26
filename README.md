@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ninafoxy&color=red) ![](https://dcbadge.limes.pink/api/shield/1231888264026132540)
 
+
+
 <p>i'll make some trash code when im bored LUL</p>
 
 ![lavandiagif](https://github.com/user-attachments/assets/ffbe38b2-4a98-46b7-a8f5-0126776411f9)
@@ -24,7 +26,7 @@
 
 <h2>✒️ achievements</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninafoxy&show_icons=true&locale=en" alt="ninafoxy" /></p>
+<p><img align="center" src="![GitHub stats](https://github-readme-stats.vercel.app/api?ninafoxy=anuraghazra&show_icons=true&theme=dark)" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninafoxy&show_icons=true&locale=en&layout=compact" alt="ninafoxy" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninafoxy" alt="ninafoxy" /></a></p>
 
