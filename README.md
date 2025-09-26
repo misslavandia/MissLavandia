@@ -75,3 +75,6 @@
 </div>
 
 ###
+
+![terminal (1)](https://github.com/user-attachments/assets/08edb98f-6d30-4fa5-b951-fc9af32b9cf0)
+
