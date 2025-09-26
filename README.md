@@ -69,5 +69,3 @@
 </div>
 
 ###
-
-![lavandiagif](https://github.com/user-attachments/assets/ffbe38b2-4a98-46b7-a8f5-0126776411f9)
