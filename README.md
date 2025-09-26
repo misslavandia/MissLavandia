@@ -10,7 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ninafoxy.ninafoxy&left_color=black&right_color=red"  />
 </div>
 
-![lavandiagif](https://github.com/user-attachments/assets/ffbe38b2-4a98-46b7-a8f5-0126776411f9)
 
 ###
 
@@ -68,4 +67,4 @@
 
 ###
 
-
+![lavandiagif](https://github.com/user-attachments/assets/ffbe38b2-4a98-46b7-a8f5-0126776411f9)
