@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is MissLavandia and I'm a Lead dev<br><br><br>i'll make some trash code when im bored LUL</h2> <img width="722" height="722" alt="emojis com soviet-heavy-equipment-plant-building,-factory-exterior,-hammer-and-sickle,-smokestacks,-no-people,-no-machinery-outside" src="https://github.com/user-attachments/assets/c6ff1c76-53fd-4fa9-b3c4-d32d5b6270f9" />
+<h2 align="left">Hi 👋! My name is MissLavandia and I'm a Lead dev<br><br><br>i'll make some trash code when im bored LUL</h2> <img width="150" height="75" alt="emojis com soviet-heavy-equipment-plant-building,-factory-exterior,-hammer-and-sickle,-smokestacks,-no-people,-no-machinery-outside" src="https://github.com/user-attachments/assets/c6ff1c76-53fd-4fa9-b3c4-d32d5b6270f9" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0028F7&multiline=true&width=435&lines=Linux+ARCH+User;Custom+mint+user;CEO+of+2+enterprises)](https://git.io/typing-svg)
