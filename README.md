@@ -2,7 +2,11 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/e1f0dda1-8d60-4fda-8b19-db1263f10229" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=LEAD+DEV;Transgender+DEV;%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE%2C+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE)](https://git.io/typing-svg)
+###
 
+  <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-3/1231888264026132540.png"/>
+  </a>
 
 ###
 
