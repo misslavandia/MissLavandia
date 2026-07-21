@@ -76,13 +76,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninafoxy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=STATS" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninafoxy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ninafoxy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ninafoxy&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="ninafoxy's GitHub Stats" />
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninafoxy&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="ninafoxy's GitHub Stats" />
 
-![terminal2-ezgif com-speed](https://github.com/user-attachments/assets/e3bcfe4d-90e7-41a3-9378-5678c0fefca1)
+<img src="https://streak-stats.demolab.com?user=ninafoxy&theme=blue-green&hide_border=true" alt="ninafoxy's GitHub Stats" />
+
 
 
