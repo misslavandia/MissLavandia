@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is MissLavandia and I'm a Lead dev<br><br><br>i'll make some trash code when im bored LUL</h2>
+<h2 align="left">Hi 👋! My name is Madame Nocturnia and I'm a Lead dev, i'll dev tools for vrchat, client and many things <br><br><br>i'll make some trash code when im bored LUL</h2>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0028F7&multiline=true&width=435&lines=Linux+ARCH+User;Custom+mint+user;CEO+of+2+enterprises)](https://git.io/typing-svg)
