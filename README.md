@@ -24,7 +24,8 @@
 
 
 ###
-Language that i principaly use
+
+### Language that i principaly use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
