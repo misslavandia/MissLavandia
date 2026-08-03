@@ -1,5 +1,5 @@
+<img width="1926" height="817" alt="0ff28886-8cf8-4aa2-9663-a1581f975b96" src="https://github.com/user-attachments/assets/54a8b426-85a3-4f38-8235-b1f60e5fa40c" />
 
-<img width="2172" height="724" alt="147e3ecc-4737-4c35-ae30-8be8957ef4c0" src="https://github.com/user-attachments/assets/278e898a-28db-4078-ae79-2734bd8e84ba" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=LEAD+DEV;Transgender+DEV;%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE%2C+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE)](https://git.io/typing-svg)
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Madame Nocturnia and I'm a Lead dev, i'll dev tools for vrchat, client and many things <br><br><br>i'll make some trash code when im bored LUL</h2>
+<h2 align="left">Hi 👋! My name is MissLavandia and I'm a Full-stack DEV, i'll dev tools for vrchat, client and many things <br><br><br>i'll make some trash code when im bored LUL</h2>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0028F7&multiline=true&width=435&lines=Linux+ARCH+User;Custom+mint+user;CEO+of+2+enterprises)](https://git.io/typing-svg)
