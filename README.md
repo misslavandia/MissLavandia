@@ -74,11 +74,11 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ninafoxy&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="ninafoxy's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=misslavandia&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="misslavandia GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninafoxy&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="ninafoxy's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misslavandia&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="misslavandia GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=ninafoxy&theme=blue-green&hide_border=true" alt="ninafoxy's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=misslavandia&theme=blue-green&hide_border=true" alt="misslavandia GitHub Stats" />
 
 
 
