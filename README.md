@@ -23,9 +23,6 @@
 </div>
 
 
-###
-</div>
-
 <div align="center">
 # EXPERT in :OSCP+, OSEP, OSWPs, KLCP,  OSEE
   
