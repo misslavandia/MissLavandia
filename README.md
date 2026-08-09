@@ -287,7 +287,7 @@ Mes repositories regroupent principalement des projets de **développement**, **
 ## `> Contact`
 
 ```bash
-$ echo "Let's build something secure."
+$ echo "contact.misslavandia@proton.me."
 ```
 
 💻 **Full Stack Developer**
