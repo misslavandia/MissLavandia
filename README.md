@@ -27,7 +27,8 @@
 </div>
 
 <div align="center">
-###### EXPERT in :OSCP+, OSEP, OSWPs, KLCP,  OSEE
+###EXPERT in :OSCP+, OSEP, OSWPs, KLCP,  OSEE
+  
 ### Security & Analysis Tools
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
