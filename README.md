@@ -11,6 +11,8 @@
  <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-2/1231888264026132540.png"/>
   </a>
+
+
 ```bash
 $ whoami
 
@@ -27,9 +29,11 @@ Passionné par le **développement logiciel**, la **cybersécurité offensive**,
 Mon approche consiste à comprendre un système **de bout en bout** : de l'architecture et du code source jusqu'à l'exploitation, l'analyse mémoire et la sécurisation de l'infrastructure.
 
 Je travaille principalement autour du **Full Stack Development**, de la **sécurité offensive**, de l'**analyse de vulnérabilités**, du **reverse engineering** et de l'automatisation.
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ninafoxy.ninafoxy&left_color=black&right_color=red"  />
 </div>
+
 ---
 
 ## `> Cybersecurity`
