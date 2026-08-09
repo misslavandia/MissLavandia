@@ -1,95 +1,303 @@
-<img width="1926" height="817" alt="0ff28886-8cf8-4aa2-9663-a1581f975b96" src="https://github.com/user-attachments/assets/54a8b426-85a3-4f38-8235-b1f60e5fa40c" />
+# `> whoami`
 
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    MISS LAVANDIA // ML                      ║
+║              FULL STACK DEVELOPER & SECURITY                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=LEAD+DEV;Transgender+DEV;%D0%9F%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%BE%2C+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE)](https://git.io/typing-svg)
-###
-
-  <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
+### `> About_Me`
+ <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-2/1231888264026132540.png"/>
   </a>
+```bash
+$ whoami
 
-###
+> Full Stack Developer
+> Cybersecurity Expert
+> Offensive Security Researcher
+> Security Enthusiast
+> 42 School Background
+> Reverse Engineering & Low-Level Development
+```
 
-<h2 align="left">Hi 👋! My name is MissLavandia and I'm a Full-stack DEV, i'll dev tools for vrchat, client and many things <br><br><br>i'll make some trash code when im bored LUL</h2>
+Passionné par le **développement logiciel**, la **cybersécurité offensive**, le **reverse engineering** et les systèmes bas niveau.
 
+Mon approche consiste à comprendre un système **de bout en bout** : de l'architecture et du code source jusqu'à l'exploitation, l'analyse mémoire et la sécurisation de l'infrastructure.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=0028F7&multiline=true&width=435&lines=Linux+ARCH+User;Custom+mint+user;CEO+of+2+enterprises)](https://git.io/typing-svg)
-
-
-###
-
+Je travaille principalement autour du **Full Stack Development**, de la **sécurité offensive**, de l'**analyse de vulnérabilités**, du **reverse engineering** et de l'automatisation.
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ninafoxy.ninafoxy&left_color=black&right_color=red"  />
 </div>
+---
 
+## `> Cybersecurity`
 
-<div align="center">
-# EXPERT in :OSCP+, OSEP, OSWPs, KLCP,  OSEE
-  
-### Security & Analysis Tools
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+### 🏴 Offensive Security
 
+```text
+╭────────────────────────────────────────────────────────────╮
+│                    SECURITY EXPERTISE                      │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  ⚔️  Penetration Testing                                  │
+│  🔴 Red Team Operations                                   │
+│  🧬 Vulnerability Research                                │
+│  🔬 Reverse Engineering                                   │
+│  🧠 Exploit Development                                   │
+│  💾 Binary Analysis                                       │
+│  🖥️  Web Application Security                              │
+│  🌐 Network Security                                      │
+│  🔐 Privilege Escalation                                  │
+│  🕵️  Security Research                                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
 
+### 🎓 Certifications & Qualifications
 
+> **EXPERT IN**
 
-### Language that i principaly use
+```text
+┌──────────────────────────────────────────┐
+│ OSCP+   → Offensive Security             │
+│ OSEP    → Advanced Exploitation          │
+│ OSWP    → Wireless Security              │
+│ KLCP    → Linux Security                  │
+│ OSEE    → Exploit Development             │
+└──────────────────────────────────────────┘
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-</div>
+**Focus :**
 
-###
+* Offensive Security
+* Advanced Penetration Testing
+* Exploit Development
+* Red Teaming
+* Vulnerability Research
+* Reverse Engineering
+* Wireless Security
+* Linux Security
+* Web Security
+* Binary Exploitation
 
-  </a>
-  <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+---
 
-###
+## `> Development`
 
-<br clear="both">
+### 💻 Full Stack Developer
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=misslavandia&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="misslavandia GitHub Stats" />
+Je développe des applications et outils **Full Stack**, de l'architecture backend jusqu'aux interfaces frontend, APIs, bases de données et systèmes d'automatisation.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misslavandia&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="misslavandia GitHub Stats" />
+```text
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+├── TypeScript
+└── React
 
-<img src="https://streak-stats.demolab.com?user=misslavandia&theme=blue-green&hide_border=true" alt="misslavandia GitHub Stats" />
+Backend
+├── Node.js
+├── APIs / REST
+├── Authentication
+├── WebSockets
+└── Automation
 
+Systems
+├── Linux
+├── C / C++
+├── Bash
+└── Low-Level Development
+```
 
+---
 
+## `> 42`
+
+### 🎓 École 42
+
+Mon parcours comprend une formation orientée **informatique, algorithmique et développement système**, notamment à travers l'environnement de l'**École 42**.
+
+```text
+42 PROJECT MINDSET
+
+Algorithmics
+     │
+     ├── C / C++
+     ├── Memory Management
+     ├── UNIX
+     ├── Data Structures
+     ├── Algorithms
+     ├── System Programming
+     └── Problem Solving
+              │
+              ▼
+       SECURITY ENGINEERING
+```
+
+Cette approche m'a permis de développer une forte compréhension des **systèmes**, de la **mémoire**, des **architectures logicielles** et du fonctionnement interne des applications.
+
+---
+
+# `> Security & Analysis Tools`
+
+### 🛠️ Security Arsenal
+
+```text
+Recon
+├── Nmap
+├── Masscan
+├── Amass
+└── OSINT tooling
+
+Web Security
+├── Burp Suite
+├── OWASP tooling
+├── ffuf
+└── Custom tooling
+
+Exploitation
+├── Metasploit
+├── Exploit development
+├── Custom payloads
+└── CTF tooling
+
+Reverse Engineering
+├── Ghidra
+├── IDA
+├── x64dbg
+├── GDB
+└── Binary Ninja
+
+Network
+├── Wireshark
+├── tcpdump
+├── Scapy
+└── Network analysis
+
+Linux
+├── Kali Linux
+├── Arch Linux
+├── Debian
+└── Custom environments
+```
+
+---
+
+# `> Language that i principally use`
+
+### 💻 Programming Languages
+
+```text
+C              ████████████████████  SYSTEMS
+C++            ████████████████████  LOW LEVEL
+Python         ███████████████████░  SECURITY / AUTOMATION
+JavaScript     ███████████████████░  FULL STACK
+TypeScript     ██████████████████░░  FULL STACK
+Bash           ████████████████░░░░  AUTOMATION
+SQL            ███████████████░░░░░  DATABASE
+HTML / CSS     ███████████████░░░░░  FRONTEND
+```
+
+### 🔥 Main Stack
+
+```text
+C / C++
+Python
+JavaScript
+TypeScript
+Node.js
+React
+SQL
+Bash
+Linux
+Git
+Docker
+```
+
+---
+
+# `> What I Build`
+
+```text
+⚡ Security Tools
+⚡ Penetration Testing Utilities
+⚡ Automation Frameworks
+⚡ Full Stack Applications
+⚡ Discord / VRChat Integrations
+⚡ APIs & Backend Systems
+⚡ Reverse Engineering Tools
+⚡ Network Analysis Tools
+⚡ Custom Developer Tooling
+⚡ Research Projects
+```
+
+---
+
+# `> Current Focus`
+
+```bash
+$ cat /etc/current-focus
+
+[+] Offensive Security
+[+] Exploit Development
+[+] Reverse Engineering
+[+] Vulnerability Research
+[+] Full Stack Engineering
+[+] Low-Level Programming
+[+] Security Automation
+[+] Research & Development
+```
+
+---
+
+# `> Philosophy`
+
+> **"Understand the system. Break the assumptions. Build it better."**
+
+La cybersécurité ne consiste pas uniquement à exploiter une vulnérabilité.
+
+Elle consiste à comprendre **pourquoi elle existe**, comment elle peut être exploitée, comment elle peut être détectée et surtout **comment construire des systèmes capables de mieux y résister**.
+
+---
+
+# `> GitHub`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   CODE        → Build                                        │
+│   BREAK       → Understand                                   │
+│   RESEARCH    → Discover                                    │
+│   SECURE      → Improve                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Mes repositories regroupent principalement des projets de **développement**, **cybersécurité**, **automatisation**, **recherche** et **expérimentation technique**.
+
+---
+
+## `> Contact`
+
+```bash
+$ echo "Let's build something secure."
+```
+
+💻 **Full Stack Developer**
+🔴 **Offensive Security**
+🧬 **Reverse Engineering**
+⚔️ **Security Research**
+🎓 **42 Background**
+
+---
+
+```text
+████████████████████████████████████████████████████████████
+
+              ACCESS GRANTED // KEEP BUILDING
+
+████████████████████████████████████████████████████████████
+```
