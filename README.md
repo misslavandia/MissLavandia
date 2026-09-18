@@ -9,7 +9,7 @@
 
 ### `> About_Me`
  <a href="https://discordapp.com/users/1231888264026132540" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-2/1231888264026132540.png"/>
+    <img src="https://discord.c99.nl/widget/theme-2/485154715802402827.png"/>
   </a>
 
 
